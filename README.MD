@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/cover.jpg"
     width="400"  
 />
 </p>
@@ -10,7 +10,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/EderLimaDev/new-ebook-html/output/Ebook%-%A%Ascensao%do%Dev.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/EderLimaDev/new-ebook-html/blob/main/output/Ebook%20-%20A%20Ascen%C3%A7ao%20do%20Dev.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
