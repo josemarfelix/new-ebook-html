@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.jpg"
+    src="./assets/Apresentação_ebook.png"
     width="400"  
 />
 </p>
