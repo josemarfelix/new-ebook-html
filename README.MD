@@ -29,25 +29,24 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em HTML, listando as principais tags HTML com exemplos em código, {REGRAS} >Explique sempre de uma maneira simples, >Deixe o texto enxuto, >Sempre traga exemplos de código em contextos reais, >Sempre deixe um título sugestivo por topico enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico.
 
 
-Midjourney：
+PRopostas：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Gerreiros da terra média brandindo suas armas, bem ao fundo um castelo, utilizar pixel art |
+| título | FORTALEZA EMOCIONAL: PREVENÇÃO AO SUICÍDIO NO AMBIENTE ESCOLAR |
 
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | A FORÇA DO CUIDADO: SUPORTE À SAÚDE MENTAL PARA PROFISSIONAIS DA SAÚDE |
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Gamma app
+- Conteúdo e imagens gerado via ChatGPT
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point para diagramação.
 
 
-<p>Criado por Eder Lima</p>
+<p>Criado por Josemar Coelho Felix</p>
